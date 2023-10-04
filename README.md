@@ -1,6 +1,8 @@
 # Tetris
 Exploring Tetris Implementation in C++: A Practical Exercise
 
+## Project preview
+
 ## Source file
 1. wincursor.obj - provides the implementation of the class Screen and String.
 2. wincursor.h - declares the prototype of Screen and String. Your main program must include this file.
