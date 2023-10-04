@@ -2,6 +2,7 @@
 Exploring Tetris Implementation in C++: A Practical Exercise
 
 ## Project preview
+* ![image](https://github.com/Ting-Xiao-Miaw/Tetris/blob/main/.resource/preview.png)
 
 ## Source file
 1. wincursor.obj - provides the implementation of the class Screen and String.
